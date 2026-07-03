@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# SQL Server temp files
+*.ldf
+*.mdf
+
+# VS Code settings
+.vscode/settings.jsongit status
