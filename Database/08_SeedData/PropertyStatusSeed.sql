@@ -10,5 +10,5 @@ INSERT INTO property.PropertyStatus
 VALUES
 ('ACT', 'Active', 'Currently Opreational'),
 ('INA', 'Inactive', 'No longer managed'),
-('UM', 'Undet Maintenance', 'temporarily unavailable');
+('UM', 'Under Maintenance', 'temporarily unavailable');
 GO
